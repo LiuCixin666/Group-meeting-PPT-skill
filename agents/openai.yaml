@@ -1,0 +1,7 @@
+interface:
+  display_name: "高保真 PPT 重建"
+  short_description: "将概念图坐标级重建为可编辑且可核查的 PowerPoint 幻灯片"
+  brand_color: "#6E38B7"
+  default_prompt: "Use $ppt-high-fidelity-reconstruction to reconstruct this concept image as an editable high-fidelity PowerPoint slide."
+policy:
+  allow_implicit_invocation: true

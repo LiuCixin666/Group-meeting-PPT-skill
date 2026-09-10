@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.pptx
+*.png
+*.jpg
+*.jpeg
+!assets/*.png
+!assets/*.jpg
